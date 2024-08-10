@@ -14,7 +14,7 @@ This project demonstrates how to build an Intruder Alarm System using an HC-SR50
 
 
 ## Arduino Code
-The Arduino code is located in the `Arduino/` directory. The file `intruder_alarm.ino` contains the code to run the intruder alarm system.
+The file `intruder_alarm.ino` contains the code to run the intruder alarm system.
 
 ## Setup Instructions
 
